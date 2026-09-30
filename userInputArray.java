@@ -9,7 +9,7 @@ public class userInputArray {
             nums[i] = sc.nextInt();
         }
         for(int j = 0; j<size; j++){
-            System.out.print(nums[j ]);
+            System.out.print(nums[j] + " "); //space
         }
     }
 }
